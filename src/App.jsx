@@ -117,7 +117,7 @@ export default function App() {
         </div>
       </main>
       <footer className="border-t bg-white/70 py-6 text-center text-sm text-gray-500">
-        © {new Date().getFullYear()} RestoShop — Built for a delightful ordering experience.
+        © {new Date().getFullYear()} Bits and Bites — Built for a delightful ordering experience.
       </footer>
     </div>
   );

@@ -6,10 +6,10 @@ export default function Header({ cartCount }) {
       <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-4">
         <div className="flex items-center gap-3">
           <div className="h-10 w-10 rounded-xl bg-gradient-to-br from-rose-500 to-orange-400 text-white grid place-items-center font-bold">
-            R
+            BB
           </div>
           <div>
-            <h1 className="text-lg font-semibold tracking-tight">RestoShop</h1>
+            <h1 className="text-lg font-semibold tracking-tight">Bits and Bites</h1>
             <p className="text-xs text-gray-500">Delicious food, quick checkout</p>
           </div>
         </div>
